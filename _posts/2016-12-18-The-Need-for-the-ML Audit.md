@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The Need for the ML Audit
 
@@ -78,6 +78,3 @@ frameworks, such as Dr. Guestrin and team's LIME project, ML
 assurance can become a reality. 
 
 Andrew
-
-
-
