@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Hello, World!
 
@@ -18,11 +18,3 @@ The function of this blog will twofold: for the reader to learn new ideas or a d
 Until next time,
 
 Andrew.
-
-
-
-
-
-
-
-
