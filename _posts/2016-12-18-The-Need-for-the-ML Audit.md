@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## The Need for the ML Audit
-
 As the first real post of substance on this site, below is an article about the coming need for machine learning audits that I wrote two months ago for the MIS training institute. I hope you find value from it!
 
 Machine learning algorithms are permeating our world. With 
