@@ -40,7 +40,5 @@ What can I say, Warren Buffet is the man. His holding company, Berkshire Hathawa
 This pick barely made the list, but is worth mentioning. Panera has led the fast casual trend since it opened, and continues to be a trend setter. Recently switching to completely non-hormone meat and other natural ingredients, it should do very well going forward. They are priced very competitively at the moment, actually, and even though they are in a brutal industry, I’m confident in their ability to stay ahead of the pack. 
 
 
-Hopefully these suggestions help you get started on your investing journey. If you made me rank these investments, I would say Amazon, physical gold, Berkshire, Google and then Panera in a distance fifth.
-
 Andrew 
 
