@@ -25,7 +25,7 @@ The link below is to to Shiller's PE, a heuristic metric showing that we are nea
 ￼
 http://www.multpl.com/shiller-pe/
 
-Google - GOOG
+**Google** - GOOG
 
 Lets face it, Google basically runs our lives. They know more about us than our families do (some of the information is wrong, but that is a different discussion). Since they have a near monopoly over online advertising and data collection, both of which are going to become more and more important, they are a good long-term bet. Although they are nearing their fair value, they are good for a buy and old. 
 
