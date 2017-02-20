@@ -4,6 +4,9 @@ published: false
 ## Thoughts on the current market conditions and stock picks
 
 
+Recently several individuals have asked me about my on thoughts on the markets and my favorite stocks, so I’ve decided to right up my analysis as a blog post.
+
+
 **Amazon** - AMZN
 
 The future is Amazon. Amazon is on a path to practically world domination, and their founder and CEO, Jeff Bezos is a literal rock scientist (no joke, he owns Blue Origin, a private space company slated for the first human spaceflight in 2018). I’ve been telling everyone for the past 5 years or so to buy Amazon and it has continued to outperform.  Even though they have an extremely lofty price to earnings ratio of 120 or so, they are insanely profitable but plow all of their profits back into the business (which artificially inflates their ratio). Jeff Bezos is a visionary that thinks in terms of 50 year time periods instead of quarterly, like most companies, so he could care less about making investors happy with dividends or short term profits. Side note: be wary of companies that pay dividends. They should have a good reason for doing so, usually it is because they can’t find a way to invest their money back into the business, which means they’ve reached the top of their growth and my not be a good long-term investment.
