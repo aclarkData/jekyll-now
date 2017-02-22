@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Thoughts on the current market conditions and stock picks
 
