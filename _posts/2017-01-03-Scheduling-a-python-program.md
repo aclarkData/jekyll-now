@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Scheduling a python program using windows Task Scheduler
 
@@ -22,7 +22,7 @@ When I began programming and tried to schedule some analytic jobs on my work mac
 
 ![Step 4](/images/sch3.PNG)
 
-* I've never messed with these settings though, so do at your own risk. 
+* I've never messed with these settings though, so do at your own risk.
 ![Step 5](/images/sch35.PNG)
 
 * Finally specify when a job would get killed, etc and push 'OK', you are good to go!
