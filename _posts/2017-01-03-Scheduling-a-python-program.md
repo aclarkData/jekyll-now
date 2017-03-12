@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-## Scheduling a python program using windows Task Scheduler
+## Scheduling a python program using windows task scheduler
 
-When I began programming and tried to schedule some analytic jobs on my work machine, I had a hard time figuring out how to get the windows task scheduler to work with python. Usually, with stack overflow and the like, it is very easy to find resources to answer this sort of question, but I had a hard time finding anything that explained how to schedule a python job. This post is an attempt to remedy this situation.
+When I began programming and tried to schedule some analytic jobs on my work machine, I had a hard time figuring out how to get windows task scheduler to work with python. Usually, with stack overflow and the like, it is very easy to find resources to answer this sort of question, but I had a hard time finding anything that explained how to schedule a python job. This post is an attempt to remedy the situation.
 
 * Find where python lives on your machine to fill the 'program' slot in the scheduler.
 ![Step 0](/images/version location.PNG)
@@ -22,7 +22,7 @@ When I began programming and tried to schedule some analytic jobs on my work mac
 
 ![Step 4](/images/sch3.PNG)
 
-* I've never messed with these settings though, so do at your own risk.
+* I've never modified with these settings though, so do at your own risk.
 ![Step 5](/images/sch35.PNG)
 
 * Finally specify when a job would get killed, etc and push 'OK', you are good to go!
