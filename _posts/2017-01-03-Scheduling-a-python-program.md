@@ -10,7 +10,6 @@ When I began programming and tried to schedule some analytic jobs on my work mac
 2. Go to the Task Scheduler and select 'Create Task'
 
 ![Step 1](/images/sch0.PNG)
-
 3. Type in the name of the task, a description, if desired.
 ![Step 2](/images/sch1.PNG)
 4. Then, go to the 'Triggers' tab and select time interval, One Time, Daily, Weekly or Monthly,
