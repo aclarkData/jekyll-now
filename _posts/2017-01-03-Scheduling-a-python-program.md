@@ -9,8 +9,7 @@ When I began programming and tried to schedule some analytic jobs on my work mac
 ![Step 0](/images/version location.PNG)
 2. Go to the Task Scheduler and select 'Create Task'
 ![Step 1](/images/sch0.PNG)
-3. Type in the name of the task, a description, if desired. I've never messed with these settings, so do so
-at your own risk.
+3. Type in the name of the task, a description, if desired.
 ![Step 2](/images/sch1.PNG)
 4. Then, go to the 'Triggers' tab and select time interval, One Time, Daily, Weekly or Monthly,
 and specify a start time, etc. Make sure the checkbox at the bottom is checked 'Enabled'.
@@ -23,5 +22,3 @@ line, and finally, add the starting directory, such as: C:/Users/aclark/desktop 
 ![Step 5](/images/sch35.PNG)
 7. Finally specify when a job would get killed, etc and push 'OK', you are good to go!
 ![Step 6](/images/sch4.PNG)
-
-Andrew
