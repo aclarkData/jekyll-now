@@ -215,7 +215,7 @@ weights.plot(kind='bar',title = 'Logistic Regression Shoe Size Model Review')
 
 
 
-![png](BasicMachineLearning_files/BasicMachineLearning_16_1.png)
+![png]('https://github.com/aclarkData/aclarkData.github.io/blob/master/_posts/BasicMachineLearning_files/BasicMachineLearning_16_1.png')
 
 
 ## Decision Tree
