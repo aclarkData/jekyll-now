@@ -255,7 +255,7 @@ dot_data = tree.export_graphviz(TreeClf, feature_names=ShoeData.columns,  class_
 
 A screenshot was taken of the tree and can be seen below:
 
-<img src="ClassificationTree.png" alt="Tree" style="width: 300px;"/>
+<img src="https://github.com/aclarkData/aclarkData.github.io/blob/master/_posts/BasicMachineLearning_files/ClassificationTree.png" alt="Tree" style="width: 300px;"/>
 
 
 ## Support Vector Machines
