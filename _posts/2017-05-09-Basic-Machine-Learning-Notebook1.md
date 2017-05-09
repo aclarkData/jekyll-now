@@ -212,10 +212,7 @@ weights.plot(kind='bar',title = 'Logistic Regression Shoe Size Model Review')
 
     <matplotlib.axes._subplots.AxesSubplot at 0x1186a03d0>
 
-
-
-
-![png]('https://github.com/aclarkData/aclarkData.github.io/blob/master/_posts/BasicMachineLearning_files/BasicMachineLearning_16_1.png')
+<img src="https://github.com/aclarkData/aclarkData.github.io/blob/master/_posts/BasicMachineLearning_files/BasicMachineLearning_16_1.png" alt="Logistic" style="width: 300px;"/>
 
 
 ## Decision Tree
