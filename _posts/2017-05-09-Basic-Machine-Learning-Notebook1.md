@@ -212,7 +212,7 @@ weights.plot(kind='bar',title = 'Logistic Regression Shoe Size Model Review')
 
     <matplotlib.axes._subplots.AxesSubplot at 0x1186a03d0>
 
-![Logistic](/images/BasicMachineLearning_files/BasicMachineLearning_16_1.png)
+![Logistic](/images/BasicMachineLearningLogistic.png)
 
 ## Decision Tree
 
@@ -252,7 +252,7 @@ dot_data = tree.export_graphviz(TreeClf, feature_names=ShoeData.columns,  class_
 A screenshot was taken of the tree and can be seen below:
 
 
-![Tree](/images/BasicMachineLearning_files/ClassificationTree.png)
+![Tree](/images/BasicMachineLearningClassificationTree.png)
 
 
 ## Support Vector Machines
