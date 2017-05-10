@@ -211,7 +211,7 @@ weights.plot(kind='bar',title = 'Logistic Regression Shoe Size Model Review')
 
 ## Decision Tree
 
-A Decision Tree, in machine learning, is a classifier that creates a path to an outcome based on several input variables. Each "leaf" represents an output given teh specific input variable values. Decision Trees are arguably one of most comprehensible models in machine learning and when combined in massive "forests",  can be a very effective algorithm.  
+A Decision Tree, in machine learning, is a classifier that creates a path to an outcome based on several input variables. Each "leaf" represents an output given the specific input variable values. Decision Trees are arguably one of most comprehensible models in machine learning and when combined in massive "forests",  can be a very effective algorithm.  
 
 
 ```python
@@ -251,7 +251,7 @@ A screenshot was taken of the tree and can be seen below:
 
 ## Support Vector Machines
 
-One of the more complicated machine learning models, aside from deep learning, which is a topic for another time, Support Vector Machines essentially draw a line, which does not have to be linear(straight), in-between classes to maximize the space between. The imaginary "support lines" that touch the closest classes are called the "support vectors", and the imaginary three lines, the support vectors and the bisecting line are called a hyperplane. The hyperplane is always drawn in one less dimension than the number of variables, so n-1, which along with the crazy math that accompany this algorithm, make it difficult to conceptualize.   
+One of the more complicated machine learning models, aside from deep learning, which is a topic for another time, Support Vector Machines essentially draw a line, which does not have to be linear (straight), in-between classes to maximize the space between. The imaginary "support lines" that touch the closest classes are called the "support vectors", and the imaginary three lines, the support vectors and the bisecting line are called a hyperplane. The hyperplane is always drawn in one less dimension than the number of variables, so n-1, which along with the crazy math that accompany this algorithm, make it difficult to conceptualize.   
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Svm_max_sep_hyperplane_with_margin.png" alt="SVM" style="width: 500px;"/>
 
