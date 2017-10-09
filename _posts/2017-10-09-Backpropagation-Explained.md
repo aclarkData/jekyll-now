@@ -4,7 +4,7 @@ published: True
 ## Backpropagation Easily Explained
 
 With the recent buzz in the deep learning research community over the efficacy and
-usefulness of [backpropagation](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/),
+future of [backpropagation](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/),
 I thought this would be a good time to give an intuitive explanation for what exactly
 backpropagation is and how it works instead of just throwing some mathematical formulas,
 as is the common way backpropagation is "explained".
