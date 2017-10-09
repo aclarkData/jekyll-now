@@ -12,7 +12,7 @@ as is the common way backpropagation is "explained".
 First off, what is backpropagation and why is it needed? Assuming that we have a model that takes
 an input *x* and predicts an output, *y*, to make our model accurate, we train it by showing the machine
 example inputs and outputs and optimize an error function (essentially, a function that calculates
-how far the predicted *y*, \hat{y} is from the real *y*, i.e. if we predict 2, but the output is 1, we would have an "error"
+how far the predicted *y*, $$\hat{y}$$ is from the real *y*, i.e. if we predict 2, but the output is 1, we would have an "error"
 of 1 (i'm taking numerous liberties on the mathematical exactness for illustration purposes)).
 backpropagation is the process we use to update the model coefficients (for the linear equation *y = mx + b*,
 m and b are coefficients) to better fit the data. backpropagation is a type of gradient descent used in neural networks, were each layer as an input, weight[s] and and activation function (basically a function that takes the input x weights[] as an input and decides whether or not to "fire" the neuron and the specific value to return). As in regular gradient descent,
