@@ -5,9 +5,8 @@ published: True
 
 With the recent buzz in the deep learning research community over the efficacy and
 future of [backpropagation](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/),
-I thought this would be a good time to give an intuitive explanation for what exactly
-backpropagation is and how it works instead of just throwing some mathematical formulas,
-as is the common way backpropagation is "explained".
+I thought this would be a good time to give an intuitive explanation for what
+backpropagation is and how it works.
 
 First off, what is backpropagation and why is it needed? Assuming that we have a model that takes
 an input *x* and predicts an output, *y*, to make our model accurate, we train it by showing the machine
