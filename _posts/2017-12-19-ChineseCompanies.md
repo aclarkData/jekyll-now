@@ -12,7 +12,9 @@ Recently I was asked to provide my thoughts on investing in Chinese companies, s
 * Debt. China’s immense ride to power had been debt fueled and cracks are beginning to show in the edifice(http://money.cnn.com/2017/05/25/news/economy/china-debt-economy/index.htmlhttps://www.theguardian.com/world/2017/dec/07/china-debt-levels-stability-risk-imf). To keep up growth, China has constructed many ‘ghost cities’(http://www.businessinsider.com/these-chinese-cities-are-ghost-towns-2017-4) where few if any people live, but have created artificial growth. Until China transforms into a consumer economy, there will be serious headwinds for sustained growth. 
  
 There are some bright spots, however, such as China’s goal to become an AI powerhouse(https://www.nytimes.com/2017/07/20/business/china-artificial-intelligence.html) however they will face an uphill battle with the best and brightest leaving the ship.
- 
+
+
+
 To contrast my negativity on the current Chinese regime and economy, I will provide a few of my favorites investments:  
 ### A few current  portfolio favorites: 
  
