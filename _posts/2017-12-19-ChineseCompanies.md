@@ -3,7 +3,7 @@ published: False
 ---
 ## Chinese Companies and current market thoughts
 
-Recently I was asked to provide my thoughts on investing in Chinese companies, such as Alibaba and JD. On the service, they look like they might have potential for a more rigorous investigation, however, from geopolitical and macroeconomic perspectives there is more than visible upon first glance. There are three main factors that are driving my bearish sentiment on Chinese companies, and they will be enumerated in turn below. because of three main factors: Xi Jinping and demographics and debt.
+Recently I was asked to provide my thoughts on investing in Chinese companies, such as Alibaba and JD. On the surface, they look like they might have potential for a more rigorous investigation, however, from geopolitical and macroeconomic perspectives there is more than visible upon first glance. There are three main factors that are driving my bearish sentiment on Chinese companies, and they will be enumerated in turn below. because of three main factors: Xi Jinping and demographics and debt.
  
 * Xi Jinping.  Xi Jinping is becoming the new “Mao” of China: consolidating power and subjugating every activity under the State. He has recently come down hard on Chinese capitalism, letting large companies, such as Alibaba, operate relatively unscathed, as long as they stay subservient to the State(http://fortune.com/2017/08/14/china-targets-tencent-alibaba-and-baidu-with-new-regulation/https://www.wsj.com/articles/wechat-weibo-among-targets-in-china-cybersecurity-probe-1502432081). Recent crackdowns on influential capitalists show that Xi means business (http://fortune.com/2017/08/03/xi-jinping-new-starting-point-for-china/). This is a huge factor, and my biggest concern with Chinese companies.
  
@@ -15,8 +15,8 @@ There are some bright spots, however, such as China’s goal to become an AI pow
 
 
 
-To contrast my negativity on the current Chinese regime and economy, I will provide a few of my favorites investments:  
-### A few current  portfolio favorites: 
+To contrast my negativity on the current Chinese regime and economy, I will provide a few of my favorites investments. 
+### A few current portfolio favorites: 
  
 * Gold: Because of the recent bubble around cryptocurrencies, Gold has taken a hit in valuation. Regardless of the recent dip, which indicates a decent entry point, this ‘barbaric relic’ is a fantastic investment, when in physical form, works for easily up to 10% of assets. Due to instabilities in the USD and its most likely obliteration in the next financial crisis (the Fed was actually insolvent for a while during the past couple years if they were required to do real accounting). Gold is a wonderful hedge against uncertainty and is a true store of value. Gold doesn’t actually change value, currencies float around gold based on their strength. Something interesting to think about.  
  
