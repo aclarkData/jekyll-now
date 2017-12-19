@@ -13,8 +13,7 @@ For geopolitical and macroeconomic reasons, I’m bearish on Chinese companies b
  
 There are some bright spots, however, such as China’s goal to become an AI powerhouse(https://www.nytimes.com/2017/07/20/business/china-artificial-intelligence.html) however they will face an uphill battle with the best and brightest leaving the ship.
  
- 
-Some of my current US portfolio favorites: 
+### Some of my current US portfolio favorites: 
  
 * Gold: Because of the recent bubble around cryptocurrencies, Gold has taken a hit in valuation. Regardless of the recent dip, which indicates a decent entry point, this ‘barbaric relic’ is a fantastic investment, when in physical form, works for easily up to 10% of assets. Due to instabilities in the USD and its most likely obliteration in the next financial crisis (the Fed was actually insolvent for a while during the past couple years if they were required to do real accounting). Gold is a wonderful hedge against uncertainty and is a true store of value. Gold doesn’t actually change value, currencies float around gold based on their strength. Something interesting to think about.  
  
