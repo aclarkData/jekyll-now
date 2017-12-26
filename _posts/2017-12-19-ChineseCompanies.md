@@ -1,11 +1,11 @@
 ---
-published: False
+published: True
 ---
 ## Chinese Companies and current market thoughts
 
 Recently I was asked to provide my thoughts on investing in Chinese companies, such as Alibaba and JD. On the surface, they look like they might have potential for a more rigorous investigation, however, from geopolitical and macroeconomic perspectives there is more than visible upon first glance. There are three main factors that are driving my bearish sentiment on Chinese companies, and they will be enumerated in turn below. because of three main factors: Xi Jinping and demographics and debt.
  
-* Xi Jinping.  Xi Jinping is becoming the new “Mao” of China: consolidating power and subjugating every activity under the State. He has recently come down hard on Chinese capitalism, letting large companies, such as Alibaba, operate relatively unscathed, as long as they stay subservient to the State(http://fortune.com/2017/08/14/china-targets-tencent-alibaba-and-baidu-with-new-regulation/https://www.wsj.com/articles/wechat-weibo-among-targets-in-china-cybersecurity-probe-1502432081). Recent crackdowns on influential capitalists show that Xi means business (http://fortune.com/2017/08/03/xi-jinping-new-starting-point-for-china/). This is a huge factor, and my biggest concern with Chinese companies.
+* Xi Jinping.  Xi Jinping is becoming the new “Mao” of China: consolidating power and subjugating every activity under the State. He has recently come down hard on Chinese capitalism, letting large companies, such as Alibaba, operate relatively unscathed, as long as they stay subservient to the State(http://fortune.com/2017/08/14/china-targets-tencent-alibaba-and-baidu-with-new-regulation/ https://www.wsj.com/articles/wechat-weibo-among-targets-in-china-cybersecurity-probe-1502432081). Recent crackdowns on influential capitalists show that Xi means business (http://fortune.com/2017/08/03/xi-jinping-new-starting-point-for-china/). This is a huge factor, and my biggest concern with Chinese companies.
  
 * Demographics. China is facing a huge crisis with regards to demographics, a key factor being their “successful” one child policy they initiated in the 1979. The labor market is shrinking annually for the foreseeable future so with more citizens on the government pension, this will create some friction on growth (https://www.imf.org/external/pubs/ft/wp/2015/wp15151.pdf).
  
@@ -27,5 +27,9 @@ To contrast my negativity on the current Chinese regime and economy, I will prov
 * Google: Alphabet Inc. Class A shares are a great buy, maybe slightly frothy, but not as much as Amazon. If there is another company that is taking over the world, it is Google. Google is a cash cow with its advertising business, so much so, it can experiment in many different areas (which is one of the reasons of its recent restructuring from Google to Alphabet, to better separate business units for financial reporting). One of Alphabet’s subsidiaries, Waymo, is currently the world leader in the extremely competitive autonomous vehicle market with test cars on roads of several US cities (https://www.theverge.com/2017/11/7/16615290/waymo-self-driving-safety-driver-chandler-autonomous). Google has many of the top researchers in Computer Science and related disciplines, so for any new developments in tech, which seem to be driving the stock market, they will be leaders in it. 
  
 One important consideration when investing with tech companies, is that any portfolio with Google or Amazon (or another tech company) needs to have them balancing out the top of the pyramid, with “real” tangible companies still making up a larger percentage. Despite current market and popular culture gyrations, high tech is not an end to itself, and is just a tool to improve existing processes. There is a bubble in a lot of tech at the moment, with inflated expectations, so at some point, there will be a degree of a correction. 
+
+As always, I appreciate your thoughts, comments, criticisms and suggestions.
+
+Thanks, 
 
 Andrew
