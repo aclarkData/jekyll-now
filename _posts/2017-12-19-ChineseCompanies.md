@@ -1,7 +1,7 @@
 ---
 published: True
 ---
-## Chinese Companies and current market thoughts
+## Chinese Companies and Current Market Thoughts
 
 Recently I was asked to provide my thoughts on investing in Chinese companies, such as Alibaba and JD. On the surface, they look like they might have potential for a more rigorous investigation, however, from geopolitical and macroeconomic perspectives there is more than visible upon first glance. There are three main factors that are driving my bearish sentiment on Chinese companies, and they will be enumerated in turn below. because of three main factors: Xi Jinping and demographics and debt.
  
