@@ -17,7 +17,6 @@ There are some bright spots, however, such as China’s goal to become an AI pow
 
 To contrast my negativity on the current Chinese regime and economy, I will provide a few of my favorites investments. 
 ### A few current portfolio favorites: 
- 
 * Gold: Because of the recent bubble around cryptocurrencies, Gold has taken a hit in valuation. Regardless of the recent dip, which indicates a decent entry point, this ‘barbaric relic’ is a fantastic investment, when in physical form, works for easily up to 10% of assets. Due to instabilities in the USD and its most likely obliteration in the next financial crisis (the Fed was actually insolvent for a while during the past couple years if they were required to do real accounting). Gold is a wonderful hedge against uncertainty and is a true store of value. Gold doesn’t actually change value, currencies float around gold based on their strength. Something interesting to think about.  
  
 * Berkshire Hathaway class A: When it comes to investing, ‘unsexy’ is usually the smartest move. Berkshire Hathaway focuses on long-term competitive advantage cash cow companies. I think of it as a better S&P 500. It is so wide and diverse, the only thing it has in common with itself is solid companies that generate reliable profits. It will not significantly outperform the S&P 500, but will by a few percentage points with a lot less risk. 
@@ -30,6 +29,6 @@ One important consideration when investing with tech companies, is that any port
 
 As always, I appreciate your thoughts, comments, criticisms and suggestions.
 
-Thanks, 
+Until next time, 
 
 Andrew
